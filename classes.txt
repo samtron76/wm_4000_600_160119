@@ -1,0 +1,7 @@
+digit_box
+ciferblat
+digit
+digit_black_white
+digit_red_white
+digit_white_black
+digit_red_black
